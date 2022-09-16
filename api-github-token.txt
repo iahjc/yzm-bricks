@@ -1,0 +1,7 @@
+github token
+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
+
+npm token
+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
+
+

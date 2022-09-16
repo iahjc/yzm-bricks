@@ -1,8 +1,0 @@
-language: node_js
-node_js:
-  - node
-deploy:
-  provider: npm
-  email: hanruigang@163.com
-  skip_cleanup: true
-  api_key: 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
